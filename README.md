@@ -2,9 +2,9 @@
 ![](img/newlogo.png)
 
 **Course Date:** DD.MM.YYYY  
-**Name:** Mehmet Furkan  
-**Surname:** AY  
-**Email:** mfurkanay.mfay@gmail.com  
+**Name:**   
+**Surname:**  
+**Email:** 
 
 ## Project Name
 Description of your project.
